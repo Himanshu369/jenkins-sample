@@ -1,3 +1,3 @@
 FROM hshar/webapp
 
-ADD index.html /var/www/html/index.html
+ADD hello.html /var/www/html/index.html
